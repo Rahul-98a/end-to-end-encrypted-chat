@@ -1,6 +1,3 @@
-#CMPT471 Project: E2E encrypted messaging system using signal protocol
-# Andy Ng and Rahul Anand
-
 #requires pycryptodome
 from Crypto.Cipher import AES           #for encryption
 from Crypto.Protocol.KDF import PBKDF2  

@@ -1,6 +1,3 @@
-#CMPT471 Project: E2E encrypted messaging system using signal protocol
-# Andy Ng and Rahul Anand
-
 #requires pycryptodome
 from socket import * # used for creating sockets
 from Crypto import * #  PyCryptodome library

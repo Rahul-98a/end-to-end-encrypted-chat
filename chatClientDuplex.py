@@ -1,6 +1,3 @@
-#CMPT471 Project: E2E encrypted messaging system using signal protocol
-# Andy Ng and Rahul Anand
-
 #requires pycryptodome
 import os   #for exit
 import time     #for stalling
